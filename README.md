@@ -8,4 +8,5 @@
 
 ![Imagen sin link](/imagenes/2.png)
 
---Creando el conflicto
+-Estoy creando cambios en la rama readme-edits para crear la pull request
+
